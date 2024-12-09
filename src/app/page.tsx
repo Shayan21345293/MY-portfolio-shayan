@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import Navbar from "./Navbar";
 import Typewriter from "typewriter-effect";
 import Image from "next/image";
 
